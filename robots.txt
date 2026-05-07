@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://visiflora-supplement.github.io/reviews/sitemap.xml
